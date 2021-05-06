@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(252, 215, 246);
+}
+
+main{
+    padding: 5% 10% 0 10%;
+}
+
+h1{
+    color: red;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 55px;
+    text-align: center;
+}
+
+#update {
+    font-size: 15px;
+    color: black;
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+#reglas {
+    font-size: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+    font-weight: 800;
+}
+
+#smallLetter {
+    background-color: crimson;
+    color: white;
+    font-size: 13px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
